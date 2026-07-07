@@ -1,0 +1,6 @@
+{
+  "name": "EBG Franchise Group",
+  "description": "A modern, trustworthy, investor-focused consulting website for acquiring premium franchise opportunities across multiple sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
